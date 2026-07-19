@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="SistemaClinica.API/SistemaClinica.API.csproj" Id="99a38bc6-1222-4bd3-9c0e-506a867c08e3" />
+  <Project Path="SistemaClinica.Application/SistemaClinica.Application.csproj" Id="f75f5c04-0a05-4b55-84e6-9d05d9f4896b" />
+  <Project Path="SistemaClinica.Domain/SistemaClinica.Domain.csproj" Id="6bee8c71-5103-4d55-98d6-243e4f062ff6" />
+  <Project Path="SistemaClinica.Infrastructure/SistemaClinica.Infrastructure.csproj" Id="8d79c6a8-3291-4f2c-b38d-e3cad6b1e3c1" />
+  <Project Path="SistemaClinica.Libs/SistemaClinica.Libs.csproj" Id="85f3b047-82b8-40ad-ac78-d6be396664c4" />
+  <Project Path="SistemaClinica.Tests/SistemaClinica.Tests.csproj" Id="31a3229e-fba0-4124-998d-7413a4eda389" />
+</Solution>

@@ -1,0 +1,4 @@
+﻿Horario;Paciente;Medico;Especialidade;Situacao;Observacao
+19:10;paciente1;medico1;aaaaaaaaa;Agendada;string
+20:10;paciente1;medico1;aaaaaaaaa;Agendada;string
+22:10;paciente2;medico1;aaaaaaaaa;Agendada;string

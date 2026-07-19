@@ -1,0 +1,3 @@
+namespace SistemaClinica.Application.UseCases.Especialidades.Commands.Create;
+
+public class CreateEspecialidadeCommandValidator : EspecialidadeCommandBaseValidator<CreateEspecialidadeCommand>;
